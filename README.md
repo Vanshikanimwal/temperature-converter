@@ -57,6 +57,6 @@ Converted Temperature: 212.00 Fahrenheit
 
 Author
 
-Developed by [Your Name].
+Developed by vanshika nimwal
 
 # temperature-converter
